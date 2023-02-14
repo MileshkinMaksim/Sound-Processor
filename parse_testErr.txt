@@ -1,7 +1,0 @@
-mute 0 1000
-mix $2 -10 90
-mute 100 10
-reverse 100 1000
-mix $5 10 20
-
-#E:/Documents/OOP/Sound_Processor/x64/Debug/Sound_Processor.exe -c parse_testErr.txt example_music/output.wav example_music/severe_tire_damage.wav [example_music/severe_tire_damage.wav,example_music/funkorama.wav]
