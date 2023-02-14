@@ -1,0 +1,8 @@
+mute 0 5
+mix $2 5 30
+mix $3 20 60
+reverse 50 100
+mute 90 100
+mix $3 90 100
+
+#E:/Documents/OOP/Sound_Processor/x64/Debug/Sound_Processor.exe -c parse_test2.txt example_music/output.wav example_music/severe_tire_damage.wav [example_music/severe_tire_damage.wav,example_music/funkorama.wav]
